@@ -1,0 +1,13 @@
+.env
+.env
+backend\.env
+**/.env
+backend/.env
+backend/.venv/
+**/node_modules/
+**/node_modules/
+**/.env
+**/.venv/
+**/node_modules/
+**/.env
+**/.venv/
